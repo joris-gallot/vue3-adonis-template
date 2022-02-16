@@ -1,0 +1,12 @@
+node_modules
+build
+coverage
+.vscode
+.DS_STORE
+.env
+.env.testing
+tmp
+front/dist
+front/node_modules
+.idea
+public/assets
